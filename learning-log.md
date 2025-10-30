@@ -1,0 +1,1 @@
+This will be a log documenting the process leading up to my backend development goals.
